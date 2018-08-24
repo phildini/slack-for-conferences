@@ -18,12 +18,12 @@ Slack is a popular choice for conference chat, and this guide is a checklist of 
 1. Rename your #general channel to #announcements. [https://get.slack.help/hc/en-us/articles/201654073-Rename-a-channel](https://get.slack.help/hc/en-us/articles/201654073-Rename-a-channel)
 1. Create a new channel called #general or #commons to give your attendees space to talk.
 1. In your workspace settings (https://{your workspace url}.slack.com/admin/settings)
-    1. Under "Default Channels", add your newly-created channels
-    1. Under "Email Display" turn "Display email addresses" off.
-    1. Under "Messaging" change "People who can use @channel and @here:" to "Workspace Owners and Admins Only"
+    * Under "Default Channels", add your newly-created channels
+    * Under "Email Display" turn "Display email addresses" off.
+    * Under "Messaging" change "People who can use @channel and @here:" to "Workspace Owners and Admins Only"
 1. In your workspace permissions (https://{your workspace url}.slack.com/admin/settings#permissions):
-    1. Under "Messaging" change "People who can post to #general:" to "Workspace Owners and Admins Only"
-    1. Under "Messaging" change "People who can use @everyone:" to "Workspace Owners and Admins Only"
+    * Under "Messaging" change "People who can post to #general:" to "Workspace Owners and Admins Only"
+    * Under "Messaging" change "People who can use @everyone:" to "Workspace Owners and Admins Only"
 1. In your workspace app permissions (https://{your workspace url}.slack.com/apps/manage/permissions), turn "Approved Apps" to "On"
 1. Add the twitter integration (https://{your workspace url}.slack.com/apps/A0F7XDW93-twitter) for your conference's twitter account to your #announcements channel. Now you only need to post announcements in one place! Note: the account you authenticate the integration with does not need to be the account you want to mirror.
 
@@ -32,7 +32,7 @@ Slack is a popular choice for conference chat, and this guide is a checklist of 
 
 ## After the conference
 1. Decide if you want this to be a permanent community that carries over year-to-year, of if you want to shut it down between conferences. Either approach is totally great! Your attendees might enjoy the constant community, but now you have the burden of year-round community management.
-    1. If you do decide to shut it down, give your attendees a heads-up, and time to capture links or other people's contact information.
+    * If you do decide to shut it down, give your attendees a heads-up, and time to capture links or other people's contact information.
 
 ## Contact
 Feel free to contact me (phildini@phildini.net) if you would like to chat about how to make the best possible online experience for your attendees, and how to improve your conference overall.
